@@ -50,7 +50,7 @@ Feel free to experiment and enhance the application to suit your specific requir
 
 ## License
 
-The MovieLand application is licensed under the MIT License.
+The MovieLand application is licensed under the MIT License. (08.07.2023)
 
 ## Acknowledgements
 
