@@ -42,10 +42,8 @@ Clicking on the movie poster or title will redirect you to more information abou
 ## Customization
 
 You can customize the MovieLand application by modifying the code and styles according to your preferences. The main files to explore for customization are:
-
 - `App.js`: Contains the main application logic, including the search functionality and rendering of movie cards.
 - `MovieCard.jsx`: Defines the structure and layout of a movie card.
-
 Feel free to experiment and enhance the application to suit your specific requirements.
 
 ## License
